@@ -25,7 +25,7 @@ Opening application page:
 Example city:
 ![alt text](./images/Screenshot%202023-06-09%20at%208.35.05%20PM.png)
 
-Link to use application: 
+Link to use application: https://santanaco.github.io/weather_appp/
 
 ## Credits
 
